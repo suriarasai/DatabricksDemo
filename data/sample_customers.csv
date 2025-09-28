@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,age,city,state,signup_date,total_purchases,last_purchase_date
+CUST_001,Alice,Johnson,alice.johnson@email.com,28,New York,NY,2023-01-15,1245.67,2024-09-15
+CUST_002,Bob,Smith,bob.smith@email.com,34,Los Angeles,CA,2022-11-20,2890.34,2024-09-20
+CUST_003,Carol,Williams,carol.williams@email.com,42,Chicago,IL,2023-03-10,756.89,2024-08-30
+CUST_004,David,Brown,david.brown@email.com,29,Houston,TX,2023-06-05,3456.78,2024-09-25
+CUST_005,Eva,Davis,eva.davis@email.com,37,Phoenix,AZ,2022-12-18,1890.45,2024-09-10
+CUST_006,Frank,Garcia,frank.garcia@email.com,31,Philadelphia,PA,2023-02-28,2134.56,2024-09-18
+CUST_007,Grace,Rodriguez,grace.rodriguez@email.com,26,San Antonio,TX,2023-07-12,987.23,2024-09-22
+CUST_008,Henry,Martinez,henry.martinez@email.com,45,San Diego,CA,2022-10-05,4567.12,2024-09-28
+CUST_009,Ivy,Anderson,ivy.anderson@email.com,33,Dallas,TX,2023-04-20,1678.90,2024-09-12
+CUST_010,Jack,Taylor,jack.taylor@email.com,39,San Jose,CA,2023-01-08,2345.67,2024-09-26
