@@ -52,21 +52,20 @@ A collection of sample tutorials and examples to demonstrate the capabilities of
 ## Repository Structure
 
 ```
-DBSamples/
+DatabricksDemo/
 ├── README.md                 # This file
 ├── tutorials/               # Tutorial notebooks and scripts
 │   ├── 01-data-exploration/
-│   ├── 02-data-visualization/
+│   ├── 02-sql-basicsn/
 │   ├── 03-sql-analytics/
 │   ├── 04-etl-processing/
 │   ├── 05-machine-learning/
 │   └── 06-real-world-examples/
 ├── datasets/               # Sample datasets
-│   ├── sales_data.csv
-│   ├── customer_data.csv
-│   └── time_series_data.csv
-├── utils/                  # Utility functions and helpers
-└── configs/               # Configuration files
+    ├── sales_data.csv
+    ├── customer_data.csv
+    ├── time_series_data.csv
+    └── . . .
 ```
 
 ## What You'll Learn
