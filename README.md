@@ -22,27 +22,26 @@ A collection of sample tutorials and examples to demonstrate the capabilities of
 - **Data Cleaning**: Handle missing values, outliers, and data quality issues
 - **Statistical Analysis**: Descriptive statistics and data profiling
 
-### 2. Data Visualization
-- **Interactive Charts**: Create visualizations using Databricks' built-in plotting
-- **Advanced Visualization**: Use matplotlib, seaborn, and plotly
-- **Dashboard Creation**: Build simple dashboards for data insights
-
-### 3. SQL Analytics
+### 2. SQL Analytics
 - **SQL Fundamentals**: Query data using Spark SQL
 - **Advanced SQL**: Window functions, CTEs, and complex queries
 - **Data Warehousing**: Create tables, views, and optimize queries
 
-### 4. ETL & Data Processing
+### 3. ETL & Data Processing
 - **Data Transformation**: Clean and transform raw data
 - **Batch Processing**: Process large datasets efficiently
 - **Data Pipelines**: Create simple data workflows
 
-### 5. Machine Learning
+### 4. Machine Learning
 - **ML Basics**: Introduction to MLlib and scikit-learn
 - **Classification**: Build predictive models
 - **Clustering**: Unsupervised learning examples
 - **Model Evaluation**: Assess model performance
 
+### 5. Data Visualization
+- **Interactive Charts**: Create visualizations using Databricks' built-in plotting
+- **Dashboard Creation**: Build simple dashboards for data insights
+ 
 ### Real-World Use Cases
 - **Sales Analytics**: Analyze sales performance and trends
 - **Customer Segmentation**: Group customers based on behavior
@@ -56,7 +55,7 @@ DatabricksDemo/
 ├── README.md                 # This file
 ├── tutorials/               # Tutorial notebooks and scripts
 │   ├── 01-data-exploration/
-│   ├── 02-sql-basicsn/
+│   ├── 02-sql-basics/
 │   ├── 03-sql-analytics/
 │   ├── 04-etl-processing/
 │   ├── 05-machine-learning/
