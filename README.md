@@ -100,6 +100,6 @@ All tutorials use publicly available datasets that are suitable for learning:
 
 ## Official Documentation Support
 
-- [Databricks Community Edition Documentation](https://docs.databricks.com/getting-started/community-edition.html)
-- [Databricks Community Forum](https://community.databricks.com/)
+- [Databricks Free Edition Documentation](https://docs.databricks.com/getting-started/community-edition.html)
+- [Databricks Forum](https://community.databricks.com/)
 - [Apache Spark Documentation](https://spark.apache.org/docs/latest/)
