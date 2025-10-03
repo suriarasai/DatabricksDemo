@@ -1,6 +1,6 @@
 # Sample Datasets for Databricks Tutorials
 
-This directory contains sample datasets used throughout the DBSamples tutorials. All datasets are synthetic and created for educational purposes.
+This directory contains sample datasets used throughout this tutorials. All datasets are synthetic and created for educational purposes.
 
 ## Available Datasets
 
