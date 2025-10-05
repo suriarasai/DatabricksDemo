@@ -22,26 +22,27 @@ A collection of sample tutorials and examples to demonstrate the capabilities of
 - **Data Cleaning**: Handle missing values, outliers, and data quality issues
 - **Statistical Analysis**: Descriptive statistics and data profiling
 
-### 2. SQL Analytics
+### 2. Data Visualization
+- **Interactive Charts**: Create visualizations using Databricks' built-in plotting
+- **Advanced Visualization**: Use matplotlib, seaborn, and plotly
+- **Dashboard Creation**: Build simple dashboards for data insights
+
+### 3. SQL Analytics
 - **SQL Fundamentals**: Query data using Spark SQL
 - **Advanced SQL**: Window functions, CTEs, and complex queries
 - **Data Warehousing**: Create tables, views, and optimize queries
 
-### 3. ETL & Data Processing
+### 4. ETL & Data Processing
 - **Data Transformation**: Clean and transform raw data
 - **Batch Processing**: Process large datasets efficiently
 - **Data Pipelines**: Create simple data workflows
 
-### 4. Machine Learning
+### 5. Machine Learning
 - **ML Basics**: Introduction to MLlib and scikit-learn
 - **Classification**: Build predictive models
 - **Clustering**: Unsupervised learning examples
 - **Model Evaluation**: Assess model performance
 
-### 5. Data Visualization
-- **Interactive Charts**: Create visualizations using Databricks' built-in plotting
-- **Dashboard Creation**: Build simple dashboards for data insights
- 
 ### Real-World Use Cases
 - **Sales Analytics**: Analyze sales performance and trends
 - **Customer Segmentation**: Group customers based on behavior
@@ -77,9 +78,9 @@ DatabricksDemo/
 
 ##  Databricks Free Edition Capabilities
 
-These tutorials showcase what you can accomplish with Databricks Community Edition:
+These tutorials showcase what you can accomplish with Databricks Free Edition:
 
-- **Compute**: Single-node clusters with up to 15GB RAM
+- **Compute**: Single-node serverless cluster with up to 15GB RAM
 - **Storage**: 5GB of storage for notebooks and data
 - **Runtime**: Latest Databricks Runtime with Spark, Delta Lake, and MLflow
 - **Languages**: Python, Scala, SQL, and R support
@@ -99,6 +100,6 @@ All tutorials use publicly available datasets that are suitable for learning:
 
 ## Official Documentation Support
 
-- [Databricks Free Edition Documentation](https://docs.databricks.com/getting-started/community-edition.html)
-- [Databricks Forum](https://community.databricks.com/)
+- [Databricks Free Edition Documentation](https://docs.databricks.com/aws/en/getting-started/free-edition)
+- [Databricks Community Forum](https://community.databricks.com/)
 - [Apache Spark Documentation](https://spark.apache.org/docs/latest/)
